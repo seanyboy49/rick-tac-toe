@@ -1,6 +1,8 @@
 # Hi!
 
-This is a little challenged I worked on over a weekend.
+Play it here! https://ric-tac-toe.herokuapp.com/
+
+This is a little challenge I worked on over a weekend.
 
 I used Create React App to bootstrap the app, Styled Components and a couple functions from my favorite Javascript functional library, Ramda.
 
