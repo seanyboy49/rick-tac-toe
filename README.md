@@ -1,6 +1,6 @@
-# Hi Scoop Team!
+# Hi!
 
-Thank you very much for the chance to to complete the Frontend challenge. I had a lot of fun writing it and decided to get a little extra styling which you might appreciate if you're a fan of Rick and Morty.
+This is a little challenged I worked on over a weekend.
 
 I used Create React App to bootstrap the app, Styled Components and a couple functions from my favorite Javascript functional library, Ramda.
 
